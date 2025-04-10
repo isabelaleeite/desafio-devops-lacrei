@@ -26,5 +26,5 @@ jobs:
           file: ./app/Dockerfile
           push: true
           tags: | 
-            isaleite05/lacrei-app:${{github.run.number}}
+            isaleite05/lacrei-app:${{github.run_number}}
             isaleite05/lacrei-app:latest
