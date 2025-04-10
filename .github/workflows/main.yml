@@ -26,5 +26,5 @@ jobs:
           file: ./app/Dockerfile
           push: true
           tags: | 
-            isabelaleite/lacrei-app:v2
-            isabelaleite/lacrei-app:latest
+            isaleite05/lacrei-app:v2
+            isaleite05/lacrei-app:latest
